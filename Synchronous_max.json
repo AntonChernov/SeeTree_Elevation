@@ -1,0 +1,12 @@
+func:make_coords_strings_list took: 0.0022 sec
+str len: 5
+func:get_elevation_from_request took: 0.0001 sec
+func:get_elevation_from_request took: 0.0001 sec
+func:get_elevation_from_request took: 0.0001 sec
+func:get_elevation_from_request took: 0.0001 sec
+func:get_elevation_from_request took: 0.0000 sec
+func:get_google_data took: 2.1372 sec
+589.68
+461.7697143554688
+func:get_average_elevation took: 2.1451 sec
+127.91028564453114
